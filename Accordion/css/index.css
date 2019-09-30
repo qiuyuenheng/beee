@@ -1,0 +1,23 @@
+.box{
+	border: 1px solid blue;
+	margin: 60px auto;
+	width: 1200px;
+	height: 400px;
+}
+
+.box ul{
+	width: 1200px;
+	height: 400px;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+
+.box li{
+	list-style: none;
+	width: 240px;
+	height: 400px;
+	float: left;
+	background-size: 800px 400px;
+	transition: all 0.3s linear;
+}
