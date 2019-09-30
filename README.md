@@ -2,7 +2,7 @@
 
 beetest是html和css的综合切图练习，也用到了一点点js的知识。
 Task1是js练习1。
-Task3是js练习3。
+Task3是js练习3（其中有一个删除键的js方法我暂时想不出来就没做了）。
 Task2找不到题目（好像链接没有用）。
 Accordion是手风琴效果的原生js。
 Navigation是导航效果的原生js写法。
