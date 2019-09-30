@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.nav{
+	position: fixed;
+	width: 100px;
+	height: 500px;
+}
+
+.nav p{
+	width: 100px;
+	height: 100px;
+	border: 1px solid blue;
+	cursor: pointer;
+}
+
+.box1,.box2,.box3,.box4,.box5{
+	margin-left: 300px;
+	height: 800px;
+	width: 600px;
+	border: 1px solid red;
+	
+}
